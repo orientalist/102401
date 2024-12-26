@@ -1,0 +1,72 @@
+{
+    "id": 1209,
+    "svid": "0DZY4",
+    "title": "Nielsen \u6a23\u672c\u5eab\u4e32\u63a5 (PoC)",
+    "status": "FINISH",
+    "submitTime": "2022-10-24 06:40:53",
+    "mbunq": null,
+    "meta": {
+        "isolated": {
+            "status": false,
+            "type": null
+        }
+    },
+    "mbrid": null,
+    "alias": {
+        "psid": [],
+        "pid": []
+    },
+    "result": [
+        {
+            "subject": "psid",
+            "type": "TXTSHORT",
+            "sn": 2,
+            "label": "",
+            "alias": "psid",
+            "answer": [],
+            "otherAnswer": [],
+            "answerLabel": [],
+            "answerAlias": []
+        },
+        {
+            "subject": "pid",
+            "type": "TXTSHORT",
+            "sn": 3,
+            "label": "",
+            "alias": "pid",
+            "answer": [],
+            "otherAnswer": [],
+            "answerLabel": [],
+            "answerAlias": []
+        },
+        {
+            "subject": "Name",
+            "type": "TXTSHORT",
+            "sn": 0,
+            "label": "",
+            "alias": "",
+            "answer": [
+                "Ivy"
+            ],
+            "otherAnswer": [],
+            "answerLabel": [],
+            "answerAlias": []
+        },
+        {
+            "subject": "Gender",
+            "type": "CHOICEONE",
+            "sn": 1,
+            "label": "",
+            "alias": "",
+            "answer": [
+                "Female"
+            ],
+            "otherAnswer": [],
+            "answerLabel": [
+                ""
+            ],
+            "answerAlias": [
+                ""
+            ]
+        }
+    ],"variable
